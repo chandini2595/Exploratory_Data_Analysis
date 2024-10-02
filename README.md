@@ -8,13 +8,13 @@ Exploratory Data Analysis (EDA) is a critical step in the data science process u
 EDA steps:
 
   1.	Load Data: Load and inspect the dataset to understand its structure.
-	2.	Check Missing Data: Identify missing values and decide how to handle them.
-	3.	Check for Duplicates: Detect and remove any duplicate rows.
-	4.	Descriptive Statistics: Use summary statistics to understand numerical columns.
-	5.	Outlier Detection: Identify outliers using boxplots or statistical methods.
-	6.	Univariate Analysis: Visualize distributions of individual features using histograms.
-	7.	Bivariate Analysis: Analyze relationships between two features using scatter plots or boxplots.
-	8.	Correlation Analysis: Compute the correlation matrix and visualize it with heatmaps.
-	9.	Feature Engineering: Create new features or transform existing ones.
-	10.	Encoding Categorical Features: Convert categorical variables into numerical form using encoding.
+  2.	Check Missing Data: Identify missing values and decide how to handle them.
+  3.	Check for Duplicates: Detect and remove any duplicate rows.
+  4.	Descriptive Statistics: Use summary statistics to understand numerical columns.
+  5.	Outlier Detection: Identify outliers using boxplots or statistical methods.
+  6.	Univariate Analysis: Visualize distributions of individual features using histograms.
+  7.	Bivariate Analysis: Analyze relationships between two features using scatter plots or boxplots.
+  8.	Correlation Analysis: Compute the correlation matrix and visualize it with heatmaps.
+  9.	Feature Engineering: Create new features or transform existing ones.
+  10.	Encoding Categorical Features: Convert categorical variables into numerical form using encoding.
 
