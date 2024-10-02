@@ -18,5 +18,13 @@ EDA steps:
   9.	Feature Engineering: Create new features or transform existing ones.
   10.	Encoding Categorical Features: Convert categorical variables into numerical form using encoding.
 
+Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/Exploratory_Data_Analysis.ipynb
+
+Youtube link:
+
+D3.js visualizations:
+![image](https://github.com/user-attachments/assets/f38a6ad0-79d7-448d-aa57-7cef8c65efc8)
+
+
 
 
