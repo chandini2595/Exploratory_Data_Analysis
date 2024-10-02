@@ -40,6 +40,24 @@ D3.js visualizations:
 
 **Assignment 2** - Auto EDA with your favorite tool. Pick your favorite kaggle data set and favorite auto eda tool (like pandas profiler or sweetviz etc.,.) Do auto eda using one of the tools i discussed in the class which is your favorite. make it very appealing for viewers.
 
+Auto EDA (Exploratory Data Analysis) refers to the automated process of analyzing datasets to understand their main characteristics quickly and efficiently. It involves generating summary statistics, visualizing distributions, identifying missing values, and detecting correlations. Auto EDA tools like pandas-profiling, Sweetviz, and D-Tale automate these steps, saving time compared to manual exploration. These tools produce comprehensive reports with minimal coding, making them ideal for data preparation and initial insights. Auto EDA is widely used to prepare datasets before feature engineering or model building.
+
+Here are the steps for Auto EDA, in one line each:
+
+1. Install the Auto EDA tool: Install tools like pandas-profiling or Sweetviz.
+2. Import necessary libraries: Import pandas and the chosen Auto EDA tool.
+3. Load the dataset: Use pandas to load the dataset into a DataFrame.
+4. Generate the report: Use the tool’s analyze or profile_report function to create the EDA report.
+5. Visualize and export: View the report in an interactive format or export it as HTML for further analysis.
+
+Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/AutoEDA_Sweetviz.ipynb
+
+Youtube link: https://youtu.be/PqIJG67AMlI
+
+Report.html
+
+![image](https://github.com/user-attachments/assets/7b4da97e-403f-4e51-a537-0e8862221788)
+
 
 
 
