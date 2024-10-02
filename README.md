@@ -59,6 +59,56 @@ Report.html
 ![image](https://github.com/user-attachments/assets/7b4da97e-403f-4e51-a537-0e8862221788)
 
 
+**Assignment 3** - Apache beam features - Demonstrate apache beam in a colab including composite transform, pipeline io, triggers, windowing ,pardo and streaming.
+
+Apache Beam is an open-source, unified programming model designed for defining and executing data processing pipelines, which can handle both batch and streaming data. It provides an abstraction layer that allows developers to write pipelines once and execute them on various distributed processing backends (known as “runners”), such as Apache Flink, Apache Spark, and Google Cloud Dataflow.
+
+How Apache Beam is Used:
+
+1. Pipeline Creation: You define a pipeline to transform data, starting with data ingestion and ending with data output.
+2. Transforms: You apply various transforms like Map, GroupByKey, and Windowing to process data.
+3. Runners: Once defined, the pipeline can be run on different execution engines by specifying the runner (e.g., Spark, Dataflow).
+4. Streaming and Batch: Apache Beam supports both real-time (streaming) and historical (batch) data processing.
+5. Scalability: It is used to process large-scale data with built-in windowing, triggers, and parallel processing capabilities.
+
+Beam is ideal for building scalable data processing workflows that run on multiple cloud platforms or on-premises environments.
+
+Key concepts in Apache Beam:
+
+1. Composite Transform:
+
+	•	A Composite Transform is a higher-level transform made up of multiple lower-level transforms. It allows you to bundle a series of operations into a single reusable block of code.
+	•	Example: You can create a ProcessText composite transform that first converts text to uppercase, then removes special characters, and finally tokenizes it.
+
+2. Pipeline I/O:
+
+	•	Pipeline Input/Output (I/O) refers to how Apache Beam reads and writes data. Apache Beam supports various I/O connectors to read from and write to data sources like text files, databases, message queues (e.g., Kafka, Pub/Sub), and cloud storage (e.g., Google Cloud Storage).
+	•	Example: ReadFromText() to read from a file and WriteToText() to write the output to a file.
+
+3. Triggers:
+
+	•	Triggers control when data is emitted in streaming pipelines, especially when working with windowed data. They dictate how often results from a window are emitted, based on factors like processing time or data arrival.
+	•	Example: A trigger can be set to fire after every 2 seconds of data processing, even if the window is still open.
+
+4. Windowing:
+
+	•	Windowing divides the data stream into logical chunks, or windows, for processing. It allows operations to be applied over finite sets of data in a streaming pipeline.
+	•	Example: Fixed windows group data into 5-minute intervals, allowing you to compute metrics on each 5-minute window of incoming data.
+
+5. ParDo:
+
+	•	ParDo (Parallel Do) is a parallel processing primitive in Apache Beam. It allows element-wise transformations of data in a parallel manner. It’s a flexible mechanism for processing elements in a PCollection.
+	•	Example: A ParDo transform might clean up or enrich each element in the dataset in parallel using a custom function.
+
+6. Streaming:
+
+	•	Streaming in Apache Beam refers to real-time, unbounded data processing. It handles data that continuously flows in, unlike batch processing which deals with finite data. Streaming pipelines process data as it arrives, using tools like windowing and triggers.
+	•	Example: A streaming pipeline could ingest data from a real-time source like Google Cloud Pub/Sub and process it continuously.
+
+These concepts are integral to building scalable and flexible data processing pipelines in Apache Beam.
+
+
+
 
 
 
