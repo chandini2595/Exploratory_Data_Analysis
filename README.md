@@ -18,3 +18,5 @@ EDA steps:
   9.	Feature Engineering: Create new features or transform existing ones.
   10.	Encoding Categorical Features: Convert categorical variables into numerical form using encoding.
 
+
+
