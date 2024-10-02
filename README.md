@@ -38,6 +38,11 @@ D3.js visualizations:
 ![image](https://github.com/user-attachments/assets/56940a4c-6c02-4f08-a5a6-101647a704ae)
 
 
+**Assignment 2** - Auto EDA with your favorite tool. Pick your favorite kaggle data set and favorite auto eda tool (like pandas profiler or sweetviz etc.,.) Do auto eda using one of the tools i discussed in the class which is your favorite. make it very appealing for viewers.
+
+
+
+
 
 
 
