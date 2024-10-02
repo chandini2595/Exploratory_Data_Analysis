@@ -20,7 +20,7 @@ EDA steps:
 
 Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/Exploratory_Data_Analysis.ipynb
 
-Youtube link:
+Youtube link: https://youtu.be/uA7H4eJC1vU
 
 D3.js visualizations:
 
