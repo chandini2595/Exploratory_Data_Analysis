@@ -23,7 +23,16 @@ Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/
 Youtube link:
 
 D3.js visualizations:
+
+
 ![image](https://github.com/user-attachments/assets/f38a6ad0-79d7-448d-aa57-7cef8c65efc8)
+
+
+![image](https://github.com/user-attachments/assets/3f6231d5-2061-4f58-9905-c0417edd85b5)
+
+
+![image](https://github.com/user-attachments/assets/56940a4c-6c02-4f08-a5a6-101647a704ae)
+
 
 
 
