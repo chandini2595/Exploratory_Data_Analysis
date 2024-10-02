@@ -22,6 +22,10 @@ Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/
 
 Youtube link: https://youtu.be/uA7H4eJC1vU
 
+Dataset: https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data
+
+I have taken 1000 records from Google Analytics Customer Revenue Prediction Kaggle dataset.
+
 D3.js visualizations:
 
 
@@ -32,6 +36,9 @@ D3.js visualizations:
 
 
 ![image](https://github.com/user-attachments/assets/56940a4c-6c02-4f08-a5a6-101647a704ae)
+
+
+
 
 
 
