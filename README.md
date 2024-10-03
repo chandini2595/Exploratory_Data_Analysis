@@ -107,6 +107,11 @@ Key concepts in Apache Beam:
 
 These concepts are integral to building scalable and flexible data processing pipelines in Apache Beam.
 
+Colab file for composite transform, pipeline io, triggers, windowing ,pardo: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/Exploratory_Data_Analysis.ipynb
+
+Youtube link: https://youtu.be/Vo1vd7kOYLo
+
+Python file for Streaming using Kafka: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/beam_kafka_pipeline_STREAMING.py
 
 
 
