@@ -103,7 +103,7 @@ Key concepts in Apache Beam:
 6. Streaming:
 
 	•	Streaming in Apache Beam refers to real-time, unbounded data processing. It handles data that continuously flows in, unlike batch processing which deals with finite data. Streaming pipelines process data as it arrives, using tools like windowing and triggers.
-	•	Example: A streaming pipeline could ingest data from a real-time source like Google Cloud Pub/Sub and process it continuously.
+	•	Example: A streaming pipeline could ingest data from a real-time source like Google Cloud Pub/Sub and Apache Kafka and process it continuously.
 
 These concepts are integral to building scalable and flexible data processing pipelines in Apache Beam.
 
