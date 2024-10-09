@@ -18,7 +18,7 @@ EDA steps:
   9.	Feature Engineering: Create new features or transform existing ones.
   10.	Encoding Categorical Features: Convert categorical variables into numerical form using encoding.
 
-Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/Exploratory_Data_Analysis.ipynb
+Colab file: https://colab.research.google.com/drive/1-7d9ZYxdtubJuRgTtA8gHmJ1Ti23wh0n
 
 Youtube link: https://youtu.be/uA7H4eJC1vU
 
@@ -50,7 +50,7 @@ Here are the steps for Auto EDA, in one line each:
 4. Generate the report: Use the tool’s analyze or profile_report function to create the EDA report.
 5. Visualize and export: View the report in an interactive format or export it as HTML for further analysis.
 
-Colab file: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/AutoEDA_Sweetviz.ipynb
+Colab file: https://colab.research.google.com/drive/1xzqhKCTw-AQ4dj-mC-7PVz6xjMF4Q41Z?usp=sharing
 
 Youtube link: https://youtu.be/PqIJG67AMlI
 
@@ -107,7 +107,7 @@ Key concepts in Apache Beam:
 
 These concepts are integral to building scalable and flexible data processing pipelines in Apache Beam.
 
-Colab file for composite transform, pipeline io, triggers, windowing ,pardo: https://github.com/chandini2595/Exploratory_Data_Analysis/blob/main/Apache_Beam_Features.ipynb
+Colab file for composite transform, pipeline io, triggers, windowing ,pardo: https://colab.research.google.com/drive/1udIvDZzTb418KdLfb2YxpPxKMAJl2MKx
 
 Youtube link: https://youtu.be/Vo1vd7kOYLo
 
